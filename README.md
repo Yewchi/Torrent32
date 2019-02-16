@@ -6,6 +6,6 @@ Regularly uses two 4.65 kb/s (i & o speed) data buffers for both teams, separate
 
 No additional setup is required. Just place in your vscripts/bots/ folder and go.
 
-Requires an instruction table, and needs a detailed instruction interpretation module.
+Requires an instruction table, to determine flag values and the following data's bit-length, and needs a detailed instruction interpretation module.
 
 Basic instruction interpretation is currently hard-coded only for basic movement.
