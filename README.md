@@ -1,4 +1,4 @@
-A low-level pipe-line communication system for complete-takeover dota 2 bots while maintaining team-based data concurrency, and avoiding bot-to-bot data redundancy--All implemented with only Lua and the Dota 2 bot API. 
+A low-level pipe-line communication system for complete-takeover dota 2 bots while maintaining team-based data concurrency, and avoiding bot-to-bot data redundancy--via only pinging the map.
 
 Team data is not stored concurrently in the LUA state, because I am an idiot.
 
